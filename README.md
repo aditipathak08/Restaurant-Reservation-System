@@ -16,3 +16,5 @@ _To be deployed on Netlify or Vercel_
 - CSS3
 
 ## 📁 Project Structure
+![Reservation Screenshot](./screenshots/Screenshot%202025-06-26%20160710.png)
+
