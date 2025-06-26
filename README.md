@@ -1,8 +1,18 @@
-# React + Vite
+# Restaurant Reservation System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web application built using React, HTML, and CSS that allows users to view, book, and manage restaurant table reservations.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+_To be deployed on Netlify or Vercel_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- View available restaurant tables
+- Make new reservations
+- Responsive design for mobile and desktop
+
+## 🛠️ Technologies Used
+- React.js (with Vite)
+- HTML5
+- CSS3
+
+## 📁 Project Structure
